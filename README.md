@@ -1,16 +1,16 @@
 ## Hi there 👋
+I'm antonocca, also known as Cristian. I'm a 16 year old (almost 17!) Italian guy which made various projects.
 
-<!--
-**antonoca/antonoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My projects 👨‍💻
+- I started with Zuzuku, a customized mod of the yuzu emulator, which was developed for fun by some of my friends and me.
 
-Here are some ideas to get you started:
+- I'm currently developing Winlator@Omod, which is a fork of Winlator, an app that lets you run Windows applications on Android via box64 and wine that adds various things such as a customized prefix, different dx wrapper versions and different turnip versions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+That is my overall best project that I made solo from zero, and I'm honestly very proud of it!
+
+## My programming languages 🔗
+- I'm mostly a Python developer, but i also know a little bit of html and javascript.
+I develop software for fun and not in a serious way, you should start too!
+
+aaand thats all, still, thanks for reading
+have a great day!
