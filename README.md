@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm antonocca, also known as Cristian. I'm a 16 year old (almost 17!) Italian guy which made various projects.
+I'm antonoca, also known as Cristian. I'm a 16 year old (almost 17!) Italian guy which made various projects.
 
 ## My projects 👨‍💻
 - I started with Zuzuku, a customized mod of the yuzu emulator, which was developed for fun by some of my friends and me.
