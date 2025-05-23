@@ -1,2 +1,2 @@
-<p align="center"> <img src="bio.jpg" width="376" height="128" alt="Personal Bio" />
+<p align="center"> <img src="bio.jpg" width="" height="" alt="Personal Bio" />
 </p> <p align="center">
