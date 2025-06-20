@@ -9,6 +9,8 @@
   <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner" width="800" />
 </div>
 
+****
+
 # Hello there! 👋
 - **Im noccansanas - a.k.a antonoca. I'm a software fork developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [Winlator@Omod](https://github.com/antonoca/winlator-omod), which is my most successful project yet.**
 
