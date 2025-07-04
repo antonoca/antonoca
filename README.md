@@ -19,7 +19,7 @@
 
 # GitHub Status ✨
 <details>
-  <summary><strong>📊 Click here to show GitHub Stats</strong></summary>
+  <summary><strong>📊 Click here to show my GitHub Stats</strong></summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonoca&show_icons=true&theme=radical)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=antonoca\&show_icons=true\&theme=dark#gh-dark-mode-only)]()
 </details>
