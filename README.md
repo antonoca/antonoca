@@ -17,7 +17,7 @@
 ----
 
 ### my literal purpose
-- **My passion is to improve upon existing emulation projects on Android, yes, only that. While I dont do massive changes, I aim to do the possible.**
+- **My persona's purpose is to improve upon existing emulation projects on Android, yes, only that. While I dont do massive changes, I aim to do the possible.**
 
 ----
 
