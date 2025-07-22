@@ -12,7 +12,7 @@
 ****
 
 # Hello there! 👋
-- **Im noccansanas - a.k.a antonoca. I'm a software fork developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [Winlator@Omod](https://github.com/antonoca/winlator-omod), which is my most successful project yet.**
+- **My real name is Jacopo, but you can call me Jay. I'm a software fork developer, starting the journey with emolnDS — a NintendoDS emulator based off melonDS. Im currently working on [Winlator@Omod](https://github.com/antonoca/winlator-omod), which is my most successful project yet.**
 
 # Ask me any questions 📬
 - **You can ask me any questions in the issues tab of this repository. I will reply as fast as I can.**
